@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 # USERNAME AND PASSWORD
-USERNAME = ""
-PASSWORD = ""
+USERNAME = "tawhaitapene@gmail.com"
+PASSWORD = "lilman001"
 
 # TO GET THE EPISODE JSON INFORMATION
 
